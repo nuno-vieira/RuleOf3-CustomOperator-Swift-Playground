@@ -2,4 +2,4 @@
 
 This a playground to showcase a Swift Custom Operator that implements the Rule of three from Elementary Math. 
 
-This explained in this Blog Post: 
+**Blog Post:** 
